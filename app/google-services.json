@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439129186567",
+    "project_id": "login-screen-68d35",
+    "storage_bucket": "login-screen-68d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439129186567:android:eeadb0999ead1bdcf4e5a2",
+        "android_client_info": {
+          "package_name": "com.foysaldev.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439129186567-ondt3shmaiplr3hm4jlemktavo8jtuv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSZDRny_VkPyoO3Cp6pQU3NQUG-PRvQkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439129186567-ondt3shmaiplr3hm4jlemktavo8jtuv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

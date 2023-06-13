@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="your_name">Your Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="singnup_to_start_your_new_journay">SingnUp to start your new Journay</string>
+    <string name="Start_your_new_journay" />
+</resources>
